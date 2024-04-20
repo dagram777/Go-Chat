@@ -13,8 +13,8 @@ Users: Can only see the posts and provide volunteer services. They will have the
 1. **Posts:**  
    - Specific issues that require funding.
 
-2. **Donations:**  
-   - Allows users to provide funds to support posts.
+2. **Volunteering:**  
+   - Allows users to provide volunteer money to support posts.
 
 3. **User Authorization:**
    - **Admins:**  
