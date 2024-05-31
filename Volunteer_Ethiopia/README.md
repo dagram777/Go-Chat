@@ -1,3 +1,0 @@
-# volunteer_ethiopia
-
-
